@@ -1,0 +1,50 @@
+# ========================
+# BUILD (Maven)
+# ========================
+target/
+
+# ========================
+# ARQUIVOS COMPILADOS
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+
+# ========================
+# LOGS
+# ========================
+*.log
+
+# ========================
+# ECLIPSE (IDE)
+# ========================
+.project
+.classpath
+.settings/
+
+# ========================
+# OUTRAS IDEs (caso abra em outro lugar)
+# ========================
+.idea/
+*.iml
+.vscode/
+
+# ========================
+# SISTEMA OPERACIONAL
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# TEMPORÁRIOS
+# ========================
+*.tmp
+*.swp
+
+# ========================
+# CONFIGURAÇÕES SENSÍVEIS
+# ========================
+application.properties
+application.yml
+.env
