@@ -48,3 +48,14 @@ Thumbs.db
 application.properties
 application.yml
 .env
+
+# ========================
+# BANCO DE DADOS DERBY (gerado em runtime)
+# ========================
+books/
+derby.log
+
+# ========================
+# MATERIAL DE APOIO (não versionar)
+# ========================
+*.pdf
